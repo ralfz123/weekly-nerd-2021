@@ -105,3 +105,61 @@ Tip: Schrijf elke lesblok een artikel en lever dit in, dan hoef je niet alle art
 * https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
 
 
+***
+##### Weekly Nerd @cmda-minor-web 2020 - 2021
+
+![Badge stating project is licensed under MIT license](https://img.shields.io/github/license/ralfz123/weekly-nerd-2021) ![Badge stating amount of issues open](https://img.shields.io/github/issues/ralfz123/weekly-nerd-2021) [![](https://img.shields.io/badge/site--status-up-success)](https://ralfz123.github.io/weekly-nerd-2021) [![Badges via shields.io](https://img.shields.io/badge/badges%20via-shields.io-brightgreen)](shields.io)
+
+<!-- [Link to application :rocket:](https://ralfz123.github.io/weekly-nerd-2021/) -->
+
+# Weekly Nerd
+_Weekly Nerd, a course of the minor Web Design & Development. It is a minor of the third year from the study [CMD](https://www.cmd-amsterdam.nl/)._
+
+### Table of Contents
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center"><a href="#rocket-purpose-of-project">🚀 Purpose of Project<a></td>
+        <td align="center"><a href="#heart_eyes-concept">😍 Concept<a></td>
+        <td align="center"><a href="#gear-installation">⚙️ Installation<a></td>
+        <td align="center"><a href="#file_folder-sources">📁 Sources<a></td>
+        <td align="center"><a href="#cop-license">👮 License<a></td>
+    </tr> 
+</table>
+
+## :rocket: Purpose of Project
+
+
+## :heart_eyes: Concept
+
+
+
+## :gear: Installation
+1. Clone the repository:  
+```
+git clone https://github.com/ralfz123/weekly-nerd-2021.git
+```
+
+2. Install dependencies   
+```
+npm install
+```
+
+3. To run the app   
+```
+npm run dev  
+```
+
+4. Go to [localhost](http://localhost:8000/) in the browser
+```
+http://localhost:5000/
+```
+
+## :file_folder: Sources
+Credits to [Joost Faber](https://github.com/joostf) && [Koop](https://github.com/KoopReynders) for giving interesting lectures about Web Apps and JavaScript and how to deal with it.
+
+### Code sources
+- Stackoverflow (n.d.). Searching for answers on dev questions - Stackoverflow. Retrieved 02 February 2021 from https://www.stackoverflow.com
+
+## :cop: License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+This project from [Ralf](https://github.com/ralfz123) has a [MIT © License](https://github.com/ralfz123/weekly-nerd-2021)
