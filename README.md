@@ -1,3 +1,10 @@
+## Week1
+Sessions: imgs
+Q - 
+[Article - aasjdfkljsadlkf?]()
+
+
+
 # Weekly Nerd @cmda-minor-web · 2020 - 2021
 
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
